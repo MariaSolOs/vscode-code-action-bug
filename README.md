@@ -1,4 +1,4 @@
-# Repro for 
+# Repro for https://github.com/microsoft/vscode/issues/169507
 
 To reproduce the issue, complete the following steps and compare the behavior in VS Code (version 1.74.1, commit 1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a) versus the one in the latest Insiders (version 1.75.0, commit edc432e920c3ec2c2af5e8a99b8e4b782633d298).
 
