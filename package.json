@@ -14,7 +14,7 @@
         "commands": [
             {
                 "command": "sayhello",
-                "title": "Hello, world!"
+                "title": "Say hello!"
             }
         ]
     },
